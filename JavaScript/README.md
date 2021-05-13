@@ -76,6 +76,7 @@
 - [WaveForm Sort](./sort/WaveFormSort.js)
 - [Shaker Sort](./sort/ShakerSort.js)
 - [Pancake Sort](./sort/PancakeSort.js)
+- [Bubble Sort](./search/Bubble_sort.js)
 
 ## Machine Learning
 
